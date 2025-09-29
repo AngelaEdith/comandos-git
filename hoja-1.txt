@@ -1,2 +1,2 @@
-Hola desde la segunda rama
+Hola desde la segunda rama(github)
 # Esta línea fue agregada para probar git status
